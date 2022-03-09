@@ -1,4 +1,5 @@
 // META: title=Event constructors
+// META: global=window,dedicatedworker,shadowrealm
 
 test(function() {
   assert_throws_js(TypeError, function() {

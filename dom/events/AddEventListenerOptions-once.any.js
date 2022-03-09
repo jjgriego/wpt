@@ -1,4 +1,5 @@
 // META: title=AddEventListenerOptions.once
+// META: global=window,dedicatedworker,shadowrealm
 
 "use strict";
 

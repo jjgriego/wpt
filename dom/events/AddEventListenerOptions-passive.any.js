@@ -1,4 +1,5 @@
 // META: title=AddEventListenerOptions.passive
+// META: global=window,dedicatedworker,shadowrealm
 
 test(function() {
   var supportsPassive = false;
